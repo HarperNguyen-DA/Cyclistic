@@ -1,5 +1,5 @@
 ---
-title: "Cyclist"
+title: "Cyclistic"
 author: "Harper Nguyen"
 date: "5/25/2021"
 output:
